@@ -3,5 +3,5 @@
 
 import time
 
-print "hello world 中国人"
+print "hello world china"
 print time.time()
