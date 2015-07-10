@@ -5,3 +5,5 @@ import time
 
 print "hello world china aaaaaa"
 print time.time()
+a = 32
+print a
